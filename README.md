@@ -49,7 +49,7 @@ inWind Landing Page is a Landing Page template developed for global SaaS project
 -   QQ: 123060128
 -   Twitter: [@huglemon520](x.com/huglemon520)
 -   Email: [karma.zhao@gmail.com](mailto:karma.zhao@gmail.com)
--   Blog: [https://huglemon.com](https://huglemon.com)
+-   Blog: [https://www.huglemon.com/blog/i-open-sourced-a-saas-landing-page](https://www.huglemon.com/blog/i-open-sourced-a-saas-landing-page)
 
 ### Sponsorship
 
